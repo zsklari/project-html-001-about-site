@@ -15,4 +15,12 @@
     background-color: #555; /* Add a dark-grey background on hover */
   }
 
-
+.box {
+    text-align: center;
+    display: inline-block;  
+    background-color: rgb(94, 238, 214);
+    width: calc(100% / 3);
+    margin: 2px;
+    border: 5px solid gray;
+    padding: 2px;
+}
