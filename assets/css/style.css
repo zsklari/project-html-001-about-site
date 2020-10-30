@@ -19,7 +19,7 @@
     float: left;
     text-align: center;
     background-color: rgb(94, 238, 214);
-    width: calc(100% / 3);
+    width: calc(33% - 30px);
     margin: 2px;
     border: 5px solid gray;
     padding: 2px;
