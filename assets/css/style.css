@@ -29,3 +29,15 @@ img {
   width: 30vw;
   margin: 3rem;
 }
+
+li {
+  display: inline;
+}
+
+.finish {
+  margin-top: 150px; 
+}
+
+
+
+
